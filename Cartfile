@@ -1,2 +1,2 @@
 github "tchernitski/LoopKit" "anna"
-github "tchernitski/dexcom-share-client-swift" "master"
+github "tchernitski/dexcom-share-client-swift" "custom_server"
